@@ -3,6 +3,9 @@
 
 wherefrom_2overwrite_copyrightinfoURL
 -------------------------------------
+overwriting  Apple "where from" URL to XML / Adobe copyright info URL
+
+
 currently crashing:  
 
 
