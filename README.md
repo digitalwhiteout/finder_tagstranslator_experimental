@@ -1,8 +1,8 @@
 # finder_tagstranslator_experimental
 
 
-##wherefromoverwrite2copyrightinfoURL
-
+wherefrom_2overwrite_copyrightinfoURL
+-------------------------------------
 currently crashing:  
 
 
